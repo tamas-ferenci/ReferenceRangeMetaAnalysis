@@ -10,7 +10,7 @@ Normal approximation was used for the meta-analysis, both for the mean and for t
 
 For studies where only median and IQR or median and minimum/maximum were given, the mean and SD were approximated using the method of Wan et al (Xiang Wan, Wenqian Wang, Jiming Liu, Tiejun Tong. Estimating the sample mean and standard deviation from the sample size, median, range and/or interquartile range. BMC Med Res Methodol. 2014 Dec 19;14:135. doi: 10.1186/1471-2288-14-135.) which should be preferred over the method of Hozo et al.
 
-Confidence interval for the mean was calculated as mean ± 1.96·SD$`/\sqrt{n}`$, and was visualized with diamonds.
+Confidence interval for the mean was calculated as mean ± 1.96·SD<img src="https://render.githubusercontent.com/render/math?math=/\sqrt{n}">, and was visualized with diamonds.
 
 Reference interval was calculated as mean ± 1.96·SD (under the assumption of normality, this has a coverage of 95%). Confidence interval for the endpoints of the reference interval was also calculated with normal approximation of Bland and Altmann (J M Bland, D G Altman. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999 Jun;8(2):135-60.doi: 10.1177/096228029900800204.).
 
