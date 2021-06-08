@@ -2,7 +2,7 @@
 
 The method is inspired by that of 'Rhinomanometric reference intervals for normal total nasal airflow resistance' (Rhinology. 2014 Dec;52(4):292-9. doi: 10.4193/Rhino13.220.), and we wish to express our gratitude to Martin Hellmich (Institut für Medizinische Statistik, Informatik und Epidemiologie, Universitätsklinikum Köln) for selflessly discussing the methodology.
 
-Our paper where the present approach is used: Balázs Németh, Zénó Ajtay, László Hejjel, Tamás Ferenci, Zoltán Ábrám, Edit Murányi, István Kiss. The issue of plasma asymmetric dimethylarginine reference range -- A systematic review and meta-analysis. (PLoS One. 2017 May 11;12(5):e0177493. doi: 10.1371/journal.pone.0177493.) Available at: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177493](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177493).
+Our paper where the present approach is used: Balázs Németh, Zénó Ajtay, László Hejjel, Tamás Ferenci, Zoltán Ábrám, Edit Murányi, István Kiss. The issue of plasma asymmetric dimethylarginine reference range - A systematic review and meta-analysis. (PLoS One. 2017 May 11;12(5):e0177493. doi: 10.1371/journal.pone.0177493.) Available at: [https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177493](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0177493).
 
 ## Methodology
 
