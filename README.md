@@ -15,9 +15,8 @@ Confidence interval for the mean was calculated as mean ± 1.96·SD$`/\sqrt{n}`$
 Reference interval was calculated as mean ± 1.96·SD (under the assumption of normality, this has a coverage of 95%). Confidence interval for the endpoints of the reference interval was also calculated with normal approximation of Bland and Altmann (J M Bland, D G Altman. Measuring agreement in method comparison studies. Stat Methods Med Res. 1999 Jun;8(2):135-60.doi: 10.1177/096228029900800204.).
 
 In short, the mean and the variance are independent for normal distribution, thus the variance of mean ± 1.96·SD is the variance of mean + 1.96$^2$ times the variance of SD. The former can be estimated as variance$/\sqrt{n}$ (as sample variance is a consistent estimator of the population variance). As far as the latter is concerned, SD follows a $\chi$-distribution (as variance follows a $\chi^2$-distribution) after appropriate scaling, namely $\frac{n-1}{\sigma^2}SD^2\sim \chi_{n-1}^2$, thus the variance of SD can be approximated as
-\[
-  \frac{SD^2}{n-1}\mathbb{D}^2\left(\chi_{n-1}\right)=\frac{SD^2}{n-1}\cdot\left[n-1-2\left(\frac{\Gamma\left(\frac{n}{2}\right)}{\Gamma\left(\frac{n-1}{2}\right)}\right)^2\right]=SD^2\cdot\left[1-\frac{2}{n-1}\left(\frac{\Gamma\left(\frac{n}{2}\right)}{\Gamma\left(\frac{n-1}{2}\right)}\right)^2\right].
-\]
+
+<img src="https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1">
 
 Confidence interval was then constructed using the quantiles of $t$-distribution with $n-1$ degrees of freedom (truncated at zero if it were negative); it will be visualized as shaded areas around the endpoints of the reference interval.
 
