@@ -28,6 +28,6 @@ Normality can be very roughly assessed - without detailed distribution data - by
 
 Extreme heterogeneity suggests that the results of the random effects models should be used instead of the fixed effects model. The models were estimated using restricted maximum likelihood. Effects of moderator variables were studied with standard meta-regression approach.
 
-## Scripts
+## Script
 
 The script is available for download [here](https://github.com/tamas-ferenci/ReferenceRangeMetaAnalysis/blob/main/ADMA_MetaAnalysis.R), and complete reproduction is possible with the raw data available for download [here](https://github.com/tamas-ferenci/ReferenceRangeMetaAnalysis/raw/main/full_data_nemeth_ADMA_revision_NB_proc.xlsx).
